@@ -1,10 +1,13 @@
-# 20240606154154
+# Zettelkasten structure
 
-The structure of a zettelkasten note:
+What will my notes look like?
 
-- Unique identifier: Unique string (title)
+- Unique ID: Unique title of the note.
 
-- Body/Content
+- Body/Content: Whatever I want to write.
 
-- Footer/References
+- Footer/References: Links to my notes or external sources
 
+## Links
+
+- [The anatomy of a Zettel](https://zettelkasten.de/introduction/#the-anatomy-of-a-zettel)

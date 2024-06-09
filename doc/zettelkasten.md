@@ -1,7 +1,8 @@
-# 20240606153352
+# Zettelkasten
 
-Trying to setup my note taking system using the zettlekasten method.
+Trying to setup my note taking system using the zettelkasten method.
 
-- [Zettelkasten Structure](zettelkasten-structure.md)
-- [Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/#the-anatomy-of-a-zettel)
-- [Building a note-taking system with vanilla vim](https://www.edwinwenink.xyz/posts/42-vim_notetaking/)
+## Links
+
+- [Zettelkasten structure](zettelkasten-structure.md)
+- [Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/)
