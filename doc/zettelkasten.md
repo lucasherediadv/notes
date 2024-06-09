@@ -6,4 +6,5 @@ I'm setting the [structure](zettelkasten-structure.md) of my notes and understan
 
 ## Links
 
+- [Why?](zettelkasten-motivation.md)
 - [Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/)
