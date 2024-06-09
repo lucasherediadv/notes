@@ -2,7 +2,8 @@
 
 Trying to setup my note taking system using the zettelkasten method.
 
+I'm setting the [structure](zettelkasten-structure.md) of my notes and understanding the importance of creating good [connections](zettelkasten-connections.md) between them.
+
 ## Links
 
-- [Zettelkasten structure](zettelkasten-structure.md)
 - [Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/)
