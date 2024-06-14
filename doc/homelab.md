@@ -11,3 +11,4 @@ Next steps:
 # Links
 
 - [Why You Should Build Your Homelab Now](https://www.youtube.com/watch?v=tmw7oYG3vMU)
+- [Motivation](https://github.com/mischavandenburg/homelab)
