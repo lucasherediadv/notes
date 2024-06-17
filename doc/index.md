@@ -1,3 +1,0 @@
-# Index
-
-- [Zettelkasten](zettelkasten.md)
