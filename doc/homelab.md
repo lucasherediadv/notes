@@ -6,6 +6,7 @@ Next steps:
 
 - Download Fedora Server and flash to a USB drive
 - [Install](https://www.youtube.com/watch?v=HxvFuGnjoJo)
+- [Read](https://docs.fedoraproject.org/es/fedora-server/)
 - SSH in and [configure](https://www.youtube.com/watch?v=hzpN-JhBJBQ&t=127s)
 
 # Links
