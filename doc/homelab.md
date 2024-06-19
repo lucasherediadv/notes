@@ -12,3 +12,4 @@ Next steps:
 
 - [Why You Should Build Your Homelab Now](https://www.youtube.com/watch?v=tmw7oYG3vMU)
 - [Motivation](https://github.com/mischavandenburg/homelab)
+- [Random thougths](homelab-random-thougths.md)
