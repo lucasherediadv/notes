@@ -1,4 +1,4 @@
-# Connect to wifi with nmcli
+# Connect wifi with nmcli
 
 Fortunately Fedora supports my wifi card, so my next problem is connecting to a wifi network.
 
@@ -21,4 +21,4 @@ Network manager will save the connection and auto connect on reboot.
 
 # Links
 
-- []()
+- [Disconnect without turning wifi card off](disconnect-wifi-with-nmcli.md)
