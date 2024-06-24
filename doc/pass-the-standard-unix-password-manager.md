@@ -18,3 +18,4 @@ At the moment I will not use a remote repository to backup passwords.
 ## Links
 
 - [Pass](https://www.passwordstore.org/)
+- [Pass Data Organization](pass-data-organization.md)
