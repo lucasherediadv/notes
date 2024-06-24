@@ -5,7 +5,7 @@ I decided to start a homelab server for learning purposes.
 Next steps:
 
 - Download Fedora Server and [flash to a USB drive](bootable-usb-from-cli.md)
-- [Install](https://www.youtube.com/watch?v=HxvFuGnjoJo)
+- [Install](https://docs.fedoraproject.org/es/fedora-server/installation/interactive-local/)
 - [Read](https://docs.fedoraproject.org/es/fedora-server/) and configure
 
 # Links
