@@ -5,6 +5,6 @@
 - Scalable over time.
 - Improves thinking and writing skills.
 
-# Links
+## Links
 
 - [Why are we so interested in Luhmanns Zettelkasten](https://zettelkasten.de/introduction/#why-are-we-so-interested-in-luhmanns-zettelkasten).
