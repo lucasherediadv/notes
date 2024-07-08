@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten connections
-date:
+date: 2024-07-08 18:29:47
 tags:
 - Zettelkasten
 - Productivity
