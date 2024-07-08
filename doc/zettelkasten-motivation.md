@@ -1,10 +1,12 @@
-# Zettelkasten motivation
+---
+title: Zettelkasten motivation
+date: 2024-07-08 18:12:08
+tags:
+- Zettelkasten
+- Productivity
+---
 
-- Minimal system.
-- Platform agnostic.
-- Scalable over time.
-- Improves thinking and writing skills.
-
-## Links
-
-- [Why are we so interested in Luhmanns Zettelkasten](https://zettelkasten.de/introduction/#why-are-we-so-interested-in-luhmanns-zettelkasten).
+- Minimal system
+- Platform agnostic
+- Scalable over time
+- Improves thinking and writing skills
