@@ -1,4 +1,9 @@
-# Removing softwares repositories with dnf
+---
+title: Removing repositories with dnf
+date: 2024-06-27
+tags:
+- Linux
+---
 
 ```
 # Get a list of all configured repositories
@@ -7,7 +12,3 @@ dnf repolist
 # Disable a repository
 dnf config-manager --set-disabled <repo>
 ```
-
-## Links
-
-- [Source](https://docs.fedoraproject.org/en-US/quick-docs/adding-or-removing-software-repositories-in-fedora/)
