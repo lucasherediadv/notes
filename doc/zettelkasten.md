@@ -1,3 +1,9 @@
+---
+title: Zettelkasten
+date: 2024-07-08 17:57:18
+tags: #zettelkasten, #productivity
+---
+
 # Zettelkasten
 
 Trying to setup my note taking system using the zettelkasten method.
