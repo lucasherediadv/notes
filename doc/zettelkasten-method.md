@@ -6,6 +6,6 @@ tags:
 - Productivity
 ---
 
-[Motivation](zettelkasten-motivation.md)
-[Structure](zettelkasten-structure.md)
-[Connections](zettelkasten-connections.md)
+- [Motivation](zettelkasten-motivation.md)
+- [Structure](zettelkasten-structure.md)
+- [Connections](zettelkasten-connections.md)
