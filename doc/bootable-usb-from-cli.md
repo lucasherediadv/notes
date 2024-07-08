@@ -1,4 +1,12 @@
-# Bootable usb from cli
+---
+title: Bootable usb from cli
+date: 2024-06-24
+tags:
+- CLI
+- Linux
+---
+
+Create a bootable usb drive from cli.
 
 ```
 # Download image
@@ -13,9 +21,3 @@ sudo umount /dev/[device]
 # Transfer the downloaded image to the usb device
 dd if=/path/to/Fedora-Server-dvd-x86_64-40-1.14.iso of=/dev/[device] bs=8M status=progress
 ```
-
-Insert the bootable USB into the target device and reboot.
-
-## Links
-
-- [Create a bootable installation medium](https://docs.fedoraproject.org/en-US/fedora-server/installation/#_create_a_bootable_installation_medium)
