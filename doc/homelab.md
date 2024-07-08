@@ -1,14 +1,16 @@
-# Homelab
+---
+title: Homelab
+date: 2024-06-14
+tags:
+- Homelab
+---
 
-I decided to start a homelab server for learning purposes.
+I decided to start a homelab using fedora server in an old laptop. My intention is to learn and gain experience in the following topics:
 
-Next steps:
+- Networking
+- Orchestration
+- Virtualization
+- Containerization
+- General system administration
 
-- Download Fedora Server and [flash to a USB drive](bootable-usb-from-cli.md)
-- [Install](https://docs.fedoraproject.org/es/fedora-server/installation/interactive-local/)
-- [Post installation tasks](https://docs.fedoraproject.org/es/fedora-server/installation/postinstallation-tasks/)
-
-## Links
-
-- [Random thougths](homelab-random-thougths.md)
-- [Motivation](https://github.com/mischavandenburg/homelab)
+Configuration and documentation will be stored in a github respository in order to publish my homelab journey.
