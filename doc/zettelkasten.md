@@ -1,7 +1,9 @@
 ---
 title: Zettelkasten
 date: 2024-07-08 17:57:18
-tags: #zettelkasten, #productivity
+tags: 
+- Zettelkasten
+- Productivity
 ---
 
 # Zettelkasten
