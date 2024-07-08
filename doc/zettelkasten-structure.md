@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten structure
-date: 2024-07-08 18:15:09
+date: 2024-07-08
 tags:
 - Zettelkasten
 - Productivity
