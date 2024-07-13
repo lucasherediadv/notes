@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten method
-date: 2024-07-08
+date: 2024-07-08 22:15:02
 tags:
 - Zettelkasten
 - Productivity
