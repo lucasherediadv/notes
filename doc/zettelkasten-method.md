@@ -6,6 +6,6 @@ tags:
 - Productivity
 ---
 
-- [Motivation](zettelkasten-motivation.md)
-- [Connections](zettelkasten-connections.md)
-- [Notes anatomy](zettelkasten-notes-anatomy.md)
+- [Motivation](zettelkasten-motivation.md): Why I have decided to use this method?
+- [Connections](zettelkasten-connections.md): The importance of connecting notes.
+- [Notes anatomy](zettelkasten-notes-anatomy.md): Anatomy of a zettelkasten note.
