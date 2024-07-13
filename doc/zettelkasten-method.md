@@ -7,5 +7,5 @@ tags:
 ---
 
 - [Motivation](zettelkasten-motivation.md)
-- [Structure](zettelkasten-structure.md)
 - [Connections](zettelkasten-connections.md)
+- [Notes anatomy](zettelkasten-notes-anatomy.md)
