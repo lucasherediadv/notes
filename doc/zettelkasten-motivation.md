@@ -9,4 +9,3 @@ tags:
 - Minimal system
 - Platform agnostic
 - Scalable over time
-- Improves thinking and writing skills
