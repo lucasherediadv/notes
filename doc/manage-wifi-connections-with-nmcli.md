@@ -2,9 +2,9 @@
 title: Manage wifi connections from cli
 date: 2024-07-08
 tags:
-- CLI
-- Linux
-- Networking
+- linux
+- nmcli
+- networking
 ---
 
 Manage wifi connections with the `nmcli` command.
