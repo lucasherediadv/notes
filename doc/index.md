@@ -1,4 +1,4 @@
 # Index
 
 - [Zettelkasten](zettelkasten-method.md)
-- [VI](vi.md)
+- [VIM](vim.md)
