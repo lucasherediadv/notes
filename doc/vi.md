@@ -8,3 +8,4 @@ tags:
 Some thoughts, tips and tricks on the VI text editor.
 
 - [Substitute](substitute.md)
+- [Cheat sheet](cheat-sheet.md)
