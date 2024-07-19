@@ -2,7 +2,7 @@
 title: Removing repositories with dnf
 date: 2024-06-27
 tags:
-- Linux
+- linux
 ---
 
 ```

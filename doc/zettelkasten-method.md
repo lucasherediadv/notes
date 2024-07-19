@@ -2,8 +2,8 @@
 title: Zettelkasten method
 date: 2024-07-08 22:15:02
 tags:
-- Zettelkasten
-- Productivity
+- zettelkasten
+- productivity
 ---
 
 - [Motivation](zettelkasten-motivation.md): Why I have decided to use this method?

@@ -2,7 +2,9 @@
 title: Ssh-copy-id
 date: 2024-06-25
 tags:
-- Linux
+- networking
+- linux
+- ssh
 ---
 
 `ssh-copy-id` install an SSH key on a server as an authorized key. Its purpose is to provide acces without requiring a password for each login.

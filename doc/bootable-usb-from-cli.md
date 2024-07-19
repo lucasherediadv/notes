@@ -2,8 +2,8 @@
 title: Bootable usb from cli
 date: 2024-06-24
 tags:
-- CLI
-- Linux
+- cli
+- linux
 ---
 
 Create a bootable usb drive from cli.

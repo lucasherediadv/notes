@@ -2,8 +2,8 @@
 title: Zettelkasten connections
 date: 2024-07-08
 tags:
-- Zettelkasten
-- Productivity
+- zettelkasten
+- productivity
 ---
 
 The Zettelkasten method emphasizes on connection. Every new note needs to be placed in some relationship to another note.

@@ -2,8 +2,8 @@
 title: Zettelkasten structure
 date: 2024-07-08
 tags:
-- Zettelkasten
-- Productivity
+- zettelkasten
+- productivity
 ---
 
 What will my notes look like?
