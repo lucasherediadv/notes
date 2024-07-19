@@ -4,6 +4,7 @@ date: 2024-06-24
 tags:
 - cli
 - linux
+- fedora
 ---
 
 Create a bootable usb drive from cli.
