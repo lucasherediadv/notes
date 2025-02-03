@@ -1,1 +1,1 @@
-# Zettelkasten
+My own approach to the zettelkasten method.
