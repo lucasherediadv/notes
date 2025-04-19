@@ -1,4 +1,4 @@
-* Create one note per thought
+* [Create one note per thought](create-one-note-per-thought.md)
 * Keep paragraphs free from hyperlinks
 * Keep all notes inside a single directory
 * Use unique, descriptive titles in lowercase, separated by hyphens
