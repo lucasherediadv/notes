@@ -1,0 +1,3 @@
+- [ ] Read https://github.com/ProfessionalLinuxUsersGroup/lac
+- [ ] Finish the Arch Linux system maintenance cheat sheet
+- [ ] Arch Linux hardening

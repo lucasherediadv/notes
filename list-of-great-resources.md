@@ -1,0 +1,4 @@
+- [Google SRE](https://sre.google/)
+- [DevOps roadmap](https://roadmap.sh/devops)
+- [Linux roadmap](https://roadmap.sh/linux)
+- [Linux troubleshooting](https://gist.github.com/fduran/dfb7ae97b9b27eafe3d707e5dd3deb7e)
