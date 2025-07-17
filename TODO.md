@@ -1,5 +1,3 @@
-- [ ] Read: 
-    - https://github.com/ProfessionalLinuxUsersGroup/lac
-    - https://github.com/pravinmishraaws/Linux-for-DevOps-Cloud-and-SRE-Engineers
-- [ ] Finish the Arch Linux system maintenance cheat sheet
 - [ ] Arch Linux hardening
+- [ ] Follow DevOps roadmap on https://roadmap.sh/devops
+- [ ] Finish the Arch Linux system maintenance cheat sheet
