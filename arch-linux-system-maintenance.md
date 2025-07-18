@@ -95,7 +95,7 @@ pacdiff --output
 # A well-sorted mirrorlist ensures faster and more reliable downloads during updates.
 
 pacman -S reflector
-reflector --latest 5 --sort rate --save /etc/pacman.d/mirrorlist
+reflector --latest 5 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
 ### Filesystem and volumes
