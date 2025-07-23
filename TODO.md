@@ -1,2 +1,0 @@
-- [ ] Follow DevOps roadmap on https://roadmap.sh/devops
-- [ ] Finish the Arch Linux system maintenance cheat sheet
