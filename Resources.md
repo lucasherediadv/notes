@@ -1,0 +1,5 @@
+- [Linux Roadmap](https://roadmap.sh/linux)
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [Linux Troubleshooting](https://gist.github.com/fduran/dfb7ae97b9b27eafe3d707e5dd3deb7e)
+- [Ops School Curriculum](https://www.opsschool.org/)
+- [Google Site Reliability Engineering](https://sre.google/)
