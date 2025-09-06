@@ -2,4 +2,8 @@
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [Linux Troubleshooting](https://gist.github.com/fduran/dfb7ae97b9b27eafe3d707e5dd3deb7e)
 - [Ops School Curriculum](https://www.opsschool.org/)
+- [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [How to write a git commit message](https://cbea.ms/git-commit/)
+- [Command Line Interfaces Guidelines](https://clig.dev/)
 - [Google Site Reliability Engineering](https://sre.google/)
