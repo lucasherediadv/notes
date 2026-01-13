@@ -55,7 +55,7 @@ reflector --latest 5 --protocol https --sort rate --save /etc/pacman.d/mirrorlis
 ```
 lsblk --fs
 ls -al ~/.cache ~/.config ~/.local/share
-find / -type d \( -path "/dev" -o -path "/proc" -o -path "/run" -o -path "/sys" \) -prune -o - xtype l -print
+find / -type d \( -path "/dev" -o -path "/proc" -o -path "/run" -o -path "/sys" \) -prune -o -xtype l -print
 ```
 
 ### See also
