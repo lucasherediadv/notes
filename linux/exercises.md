@@ -1,29 +1,53 @@
 # Exercises - List of exercises to do daily to improve linux skills
 
 ```
-# load
-uptime
+# Current time
+# How long the system has been running
+# How many users are currently logged on
+# System load averages for the past 1, 5, and 15 minutes
+# This is the same information contained in the header line displayed by 'w'
+$ uptime
 
-# what it does
-ps auxf
-ss -tlpn
+# See every process on the system
+$ ps aux
 
-# memory
-# vmstat
-# r: runnable (running or waiting to run in queue)
-# b: uninterruptible sleep (D in ps)
-vmstat # summary
-vmstat -s # summary memory stats
-vmstat 1 5 -w # every 1 sec, print 5 . wide .(first line is summary since reboot)
+# To print a process tree
+$ ps auxf
 
-free -m
+# Investigate sockets
+# -t --tcp       Display TCP sockets
+# -u --udp       Display UDP sockets
+# -p --processes Show process using socket
+# -l --listening Display only listening sockets
+# -n --numeric   Do not try to resolve services names
+$ ss -tupln
+
+# Report virtual memory statistics
+# r: The number of runnable processes
+# b: The number of processes blocked waiting for I/O to complete
+$ vmstat
+
+# Summary memory statistics
+$ vmstat -s
+
+# Display amount of free and used memory in the system
+# 'total'      Total usable memory (MemTotal and SwapTotal in /proc/meminfo)
+# 'used'       Used or unavailable memroy (calculated as 'total' - 'available')
+# 'free'       Unused memroy (MemFree and SwapFree in /proc/meminfo)
+# 'shared'     Memory used (mostly) by tmpfs (Shmem in /proc/meminfo)
+# 'buffers'    Memory used by kernel buffers (Buffers in /proc/meminfo)
+# 'cache'      Memory used by the page cache and slabs (Cached and SReclaimable in /proc/meminfo)
+# 'buff/cache' Sum of buffers and cache
+# 'available'  Estimation of how much memory is available for starting new applications, without swapping.
+$ free -h
+
 journalctl -k | grep -i oom
 
-cat /proc/meminfo
+# This  file  reports  statistics  about memory usage on the system
+$ cat /proc/meminfo
 
-# ???
-cat /proc/cmdline
-# ???
+# Arguments  passed  to the linux kernel at boot time
+$ cat /proc/cmdline
 
 # CPU
 top
