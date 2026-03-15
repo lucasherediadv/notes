@@ -1,6 +1,6 @@
 Man pages can be searched when the exact name of a page is not known using any of the following equivalent commands:
 
-```console
+```sh
 $ man -k expression
 $ man --apropos expression
 $ apropos expression
@@ -12,6 +12,6 @@ If you are getting "nothing appropriate" message for every search, try manually 
 
 One-line descriptions of man pages can be displayed using the `whatis` command:
 
-```console
+```sh
 $ whatis ls
 ```
